@@ -1,2 +1,2 @@
 # NTL_Livingness
-Calculation the livingness of nighttime light imagery in a recursive manner. After recursive generation of substructures, the inter-connected relationships between substructures are constructed forming a graph which is later visualized in the software of Gephi.
+Calculation the livingness of nighttime light imagery in a recursive manner. After recursive generation of substructures, the inter-connected relationships between substructures are constructed forming a graph which is later visualized in the software of Gephi. The graph has different hierarchical levels based on the recursion levels of the algorithm. For example, G is the graph, and R is the recursion level, the $R = r_1, r_2, \cdots, r_n$
